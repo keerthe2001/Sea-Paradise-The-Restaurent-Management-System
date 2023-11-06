@@ -26,4 +26,3 @@ Software : XAMPP / Wamp / Mamp/ Lamp \(anyone\).
 
 # For more projects, check out our channel ☺️
 
-https://www.youtube.com/channel/UC4_6-VSWBw_QHMyjrDDEvVQ
